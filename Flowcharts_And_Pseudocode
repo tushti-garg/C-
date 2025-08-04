@@ -1,0 +1,11 @@
+// sum of two numbers a and b
+Flowchart - diagram of a solution
+start
+Input a and b
+sum = a+b
+print sum
+end
+Pseudo code - General logic of solution
+1. Input a and b
+2. sum = a+b
+3. print sum
